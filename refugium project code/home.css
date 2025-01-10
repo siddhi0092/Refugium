@@ -1,0 +1,35 @@
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.carousel-caption {
+    font-size: 2.7rem; /* Increase font size */
+    font-weight:bolder; /* Increase font weight */
+}
+.carousel-caption p {
+    font-size: 1.75rem; /* Increase font size */
+    font-weight:bold; /* Increase font weight */
+}
+
+.discover-more {
+    background-color: rgba(0, 0, 0, 0.759);
+    color: white;
+    text-align: center;
+    padding: 5%;
+}
+
+#discoverHeading{
+    font-size: 2.7rem;
+}
+
+.discoverParaone{
+    font-size: 1.75rem;
+}
+
+.discoverPara{
+    font-size: 1rem;
+}
